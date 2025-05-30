@@ -1,0 +1,135 @@
+body {
+
+    background-image: url(Img/885756.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    color: rgb(235, 235, 235);
+    background-color: rgba(237, 153, 7, 0.515);
+    font-family: Arial, Helvetica, sans-serif;
+   
+}
+
+
+
+.frame {
+  background-color: rgba(0, 0, 0, 0.78); 
+  border: 2px solid #00a2ff; 
+  border-radius: 12px; 
+  padding: 30px;
+  max-width: 800px;
+  margin: 50px auto; 
+  color: white;
+  box-shadow: 0 0 15px rgba(0, 162, 255, 0.4); 
+}
+
+
+
+ul {
+  display: flex;
+  justify-content: space-between;
+  list-style-type: none;
+  align-items: center;
+  padding: 16px;
+
+
+}
+
+
+a {
+
+color: white;
+text-decoration: none;
+
+}
+
+
+p {
+
+    color: rgb(1, 135, 238);
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   
+}
+
+
+.IconLogo {
+
+
+justify-content:center;
+display: flex;
+    
+}
+
+.IconLogo img {
+
+width: 150px;
+height: 150px;
+border-radius: 50%;
+border: 5px solid rgb(38, 170, 222);
+
+
+}
+
+.Icon {
+
+border-radius: 50%;
+
+
+}
+
+
+
+.Text {
+
+padding-top: 50px;
+
+justify-content:center;
+display: flex;
+
+}
+
+
+section div {
+
+padding-top: 20px;
+align-items: center;
+justify-content:center;
+display: flex;
+gap: 90px;
+
+}
+
+
+footer a{
+display: flex;
+margin-top: 20px;
+
+}
+
+footer {
+    
+align-items: center;
+justify-content:center;
+display: flex;
+  
+
+}
+.textsBase{
+
+    text-align: center;
+    color: rgb(1, 135, 238);
+}
+
+.container {
+
+    padding: 10px 50px;
+
+}
+
+
+nav a:hover {
+
+color: aqua;
+
+}
